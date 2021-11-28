@@ -1,5 +1,7 @@
 # java-console-program  
-Simple Parking Program, to keep track of tickets, parked cars, and police officers. Demonstrates basic OOP and Java skills.  
+Simple Parking Program, to keep track of tickets, parked cars, and police officers. Demonstrates basic OOP and Java skills.
+
+_Project Specs from CS145 at UW-Stout:_
 
 **CS-145**  
 **Programming Project 1**  
@@ -27,9 +29,9 @@ For this project you will design a set of classes that work together to simulate
 
 
 These classes can be represented with the following UML diagrams:  
+![image](https://user-images.githubusercontent.com/24593916/143726261-e74e3494-8726-4a01-a842-5bf53d3bdb49.png)  
+![image](https://user-images.githubusercontent.com/24593916/143726268-e5b86bf8-d9d5-46dc-93f0-9d3741e877f4.png)  
 
-![image](https://user-images.githubusercontent.com/24593916/143726261-e74e3494-8726-4a01-a842-5bf53d3bdb49.png)
-![image](https://user-images.githubusercontent.com/24593916/143726268-e5b86bf8-d9d5-46dc-93f0-9d3741e877f4.png)
 
 **Task #1 Coding the UML Diagrams**  
 Following the UML diagrams, create the classes as indicated.  Compile and debug.  
@@ -38,16 +40,16 @@ Following the UML diagrams, create the classes as indicated.  Compile and debug.
 Copy the files ParkingTicketSimulator.java and ParkingTicketSimulator2.java from Learn@UW-Stout.  Compile and run ParkingTicketSimulator.java.  The car in this program was parked for longer than the time purchased on the parking meter.  You should get the following output:
 
   **Car Data:**  
-  - Make: Volkswagen  
-  - Model: 1972  
-  - Color: Red  
-  - License Number: 147RHZM  
-  - Minutes Parked: 125  
-  - Officer Data:  
-  - Name: Joe Friday  
-  - BadgeNumber: 4788  
-  - Minutes Illegally Parked: 65  
-  - Fine: $35.00  
+  Make: Volkswagen  
+  Model: 1972  
+  Color: Red  
+  License Number: 147RHZM  
+  Minutes Parked: 125  
+  Officer Data:  
+  Name: Joe Friday  
+  BadgeNumber: 4788  
+  Minutes Illegally Parked: 65  
+  Fine: $35.00  
 
 Compile and run ParkingTicketSimulator2.java.  The car in this program was legally parked.  You should get the following output.
 
