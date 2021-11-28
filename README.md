@@ -37,17 +37,17 @@ Following the UML diagrams, create the classes as indicated.  Compile and debug.
 **Task #2 Testing**  
 Copy the files ParkingTicketSimulator.java and ParkingTicketSimulator2.java from Learn@UW-Stout.  Compile and run ParkingTicketSimulator.java.  The car in this program was parked for longer than the time purchased on the parking meter.  You should get the following output:
 
-  **Car Data:**
-  Make: Volkswagen
-  Model: 1972
-  Color: Red
-  License Number: 147RHZM
-  Minutes Parked: 125
-  Officer Data:
-  Name: Joe Friday
-  BadgeNumber: 4788
-  Minutes Illegally Parked: 65
-  Fine: $35.00
+  **Car Data:**  
+  - Make: Volkswagen  
+  - Model: 1972  
+  - Color: Red  
+  - License Number: 147RHZM  
+  - Minutes Parked: 125  
+  - Officer Data:  
+  - Name: Joe Friday  
+  - BadgeNumber: 4788  
+  - Minutes Illegally Parked: 65  
+  - Fine: $35.00  
 
 Compile and run ParkingTicketSimulator2.java.  The car in this program was legally parked.  You should get the following output.
 
