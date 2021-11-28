@@ -2,16 +2,16 @@
 Simple Parking Program, to keep track of tickets, parked cars, and police officers. Demonstrates basic OOP and Java skills.  
 
 
-#CS-145  
-#Programming Project 1  
-#Classes and Methods  
+## CS-145  
+## Programming Project 1  
+## Classes and Methods  
 
-##Objectives  
+## Objectives  
 - Be able to use objects made up of other objects
 - Be able to write a class from scratch
 = Be able to write methods
 
-##Introduction  
+## Introduction  
 For this project you will design a set of classes that work together to simulate a police officer issuing a parking ticket.  The classes you should design are:  
 - The **ParkedCar** Class:  This class should simulate a parked car.  The class’s responsibilities are:
   - To know the car’s make, model, color, license number, and the number of minutes that the car has been parked.
